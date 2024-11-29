@@ -23,7 +23,8 @@ Before you begin, ensure you have the following installed:
 1. Clone or download this repository:
 ```bash
 git clone https://github.com/Hadi493/YT---FB-video-downloader.git
-cd video-downloader
+cd YT---FB-video-downloader
+
 ```
 
 2. Install the required packages:
