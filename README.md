@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone https://github.com/Hadi493/YT---FB-video-downloader.git
 cd YT---FB-video-downloader
-
+source .venv/bin/activate
 ```
 
 2. Install the required packages:
