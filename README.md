@@ -47,7 +47,7 @@ python main.py
 3. When the program starts:
    - You'll see a welcome message
    - Simply paste the URL of the video you want to download
-   - The video will be saved to `/home/cyber-green/Videos/TTR/`
+   - The video will be saved to `YOUR_DIR_LOCATION`
    - To quit the program, type 'q' and press Enter
 
 ## 📝 Example Usage
