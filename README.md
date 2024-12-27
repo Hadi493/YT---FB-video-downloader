@@ -69,7 +69,7 @@ Successfully downloaded: Example Video
 
 All downloaded videos are automatically saved to:
 ```
-/home/cyber-green/Videos/TTR/
+your_download_video_location
 ```
 
 ## ⚠️ Important Notes
